@@ -49,11 +49,7 @@ def menu(balance):
 balance = random.randint(0, 100000)
 menu(balance)
 
-# while Start != "4":
-#     menu()
-# checkBalance()
-# balance = Withdraw(balance)
-# checkBalance()
+
 
 
 
